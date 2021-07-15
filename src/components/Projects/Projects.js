@@ -5,7 +5,7 @@ const Projects =()=> {
         {
             href: 'https://savannahf.github.io/The-Omega-Project/',
             alt: 'PawMe Icon',
-            src: '/assets/pawmelogo.jpeg'
+            src: '/public/assets/pawmelogo.jpeg'
         },
         {
             href: 'https://savannahf.github.io/Daily-Task-Manager/',
